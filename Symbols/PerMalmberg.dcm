@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32_WROVER
+D ESP32 Wrover
+K ES32 Espressif Wrover
+F https://www.mouser.se/datasheet/2/891/esp32-wrover_datasheet_en-1223875.pdf
+$ENDCMP
+#
+#End Doc Library
