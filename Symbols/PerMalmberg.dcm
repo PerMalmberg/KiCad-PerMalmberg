@@ -6,4 +6,9 @@ K ES32 Espressif Wrover
 F https://www.mouser.se/datasheet/2/891/esp32-wrover_datasheet_en-1223875.pdf
 $ENDCMP
 #
+$CMP MAX500
+D Digital to analog converter
+K MAX 500
+$ENDCMP
+#
 #End Doc Library
