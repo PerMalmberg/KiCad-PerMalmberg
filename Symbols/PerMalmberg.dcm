@@ -11,4 +11,9 @@ D Digital to analog converter
 K MAX 500
 $ENDCMP
 #
+$CMP SN74LV4T125
+D Single Power Supply Quadruple Buffer Translator GATE With 3-State Output CMOS Logic Level Shifter
+K Level-Shifter
+$ENDCMP
+#
 #End Doc Library
