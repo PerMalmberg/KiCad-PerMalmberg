@@ -16,4 +16,14 @@ D Single Power Supply Quadruple Buffer Translator GATE With 3-State Output CMOS 
 K Level-Shifter
 $ENDCMP
 #
+$CMP Si2312CD
+D N-Channel 20 V (D-S) MOSFET
+K N-Channel
+$ENDCMP
+#
+$CMP Si2323CDS
+D P-Channel 20 V (D-S) MOSFET
+K P-Channel
+$ENDCMP
+#
 #End Doc Library
