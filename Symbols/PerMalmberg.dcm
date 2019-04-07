@@ -6,6 +6,10 @@ K ES32 Espressif Wrover
 F https://www.mouser.se/datasheet/2/891/esp32-wrover_datasheet_en-1223875.pdf
 $ENDCMP
 #
+$CMP Keystone_92
+F https://www.mouser.se/ProductDetail/Keystone-Electronics/92?qs=sGAEpiMZZMt13fpse6CWDYVh9FApKpUCF%2FjeT9O8KIw=
+$ENDCMP
+#
 $CMP MAX500
 D Digital to analog converter
 K MAX 500
